@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablasDeMultiplicar", "TablasDeMultiplicar\TablasDeMultiplicar.csproj", "{CD9BDBDE-446E-49DC-9B13-94ADBCD4D1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TablasDeMultiplicaciones", "TablasDeMultiplicaciones\TablasDeMultiplicaciones.csproj", "{00167304-842C-4BE6-9F2D-4C2B95511F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD9BDBDE-446E-49DC-9B13-94ADBCD4D1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9BDBDE-446E-49DC-9B13-94ADBCD4D1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9BDBDE-446E-49DC-9B13-94ADBCD4D1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9BDBDE-446E-49DC-9B13-94ADBCD4D1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00167304-842C-4BE6-9F2D-4C2B95511F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00167304-842C-4BE6-9F2D-4C2B95511F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00167304-842C-4BE6-9F2D-4C2B95511F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00167304-842C-4BE6-9F2D-4C2B95511F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {916F4721-CF06-431A-8856-AD9BEF42D5ED}
+	EndGlobalSection
+EndGlobal
